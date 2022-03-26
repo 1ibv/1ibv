@@ -4,4 +4,4 @@
 
 ## 📋 Profile
 
-Hey there, I'm Hachiro, a 15yo guy from Trinidad <br/><br/>having fun making <a href="https://dsc.gg/somebot">Discord bots.</a>
+Hey there, I'm Hachiro, a 15yo guy from Trinidad having fun making <a href="https://dsc.gg/somebot">Discord bots.</a>
