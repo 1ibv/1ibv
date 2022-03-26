@@ -1,7 +1,17 @@
-<a href="https://discord.com/users/265924886461939712"></a>
+# ![My stats](https://github-readme-stats.vercel.app/api?username=1ibv&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula) ![More stats](https://github-readme-streak-stats.herokuapp.com/?user=1ibv&hide_border=true&theme=tokyonight)
 
-☁️ <a href="https://youtu.be/Q1QcLbkYFaM">BoyWithUke ft. blackbear - IDGAF</a>
+# ![Commit Graph](https://activity-graph.herokuapp.com/graph?username=1ibv&bg_color=1a1b27&color=38bcad&line=628fdb&point=be91f2&area_color=2b3752&area=true&hide_border=true&custom_title=Contributions%20Graph)
 
-## 📋 Profile
+### Here are my most used languages. 
+![Starers](https://github-readme-stats.vercel.app/api/top-langs/?username=4ngel2769&hide_border=true&theme=blue-green)
 
-Hey there, I'm Hachiro, a 15yo guy from Trinidad having fun making <a href="https://dsc.gg/somebot">Discord bots.</a>
+
+[![Avatar](https://discord.c99.nl/widget/theme-3/757050742379905056.png)](https://dsc.gg/some.server)
+
+
+- 🔭 Projects I'm currently working on:
+[Something](https://dsc.gg/somebot)
+#### What is Something? He is a voice channel utility bot used across Discord!
+<a href="https://dsc.gg/some.server">
+  <img src="https://discordapp.com/api/guilds/956183589597360148/widget.png?style=shield" alt="shield.png">
+</a>
