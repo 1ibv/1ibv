@@ -11,6 +11,4 @@
 
 - 🔭 Projects I'm currently working on:
 [Something](https://dsc.gg/somebot)
-#### What is Something? He is a voice channel utility bot used across Discord!
-  <img src="https://discordapp.com/api/guilds/956183589597360148/widget.png?style=shield" alt="sheild.png">
-</a>
+#### Something is a voice channel utility bot used across Discord!
