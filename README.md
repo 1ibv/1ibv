@@ -6,7 +6,7 @@
 ![Starers](https://github-readme-stats.vercel.app/api/top-langs/?username=4ngel2769&hide_border=true&theme=blue-green)
 
 
-[![Avatar](https://discord.c99.nl/widget/theme-3/877606171199017030.png)](https://dsc.gg/some.server)
+[![Avatar](https://discord.c99.nl/widget/theme-3/877606171199017030.png)](https://discord.gg/E4NJ6Wn2Nr)
 
 
 - 🔭 Projects I'm currently working on:
