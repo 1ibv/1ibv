@@ -6,12 +6,11 @@
 ![Starers](https://github-readme-stats.vercel.app/api/top-langs/?username=4ngel2769&hide_border=true&theme=blue-green)
 
 
-[![Avatar](https://discord.c99.nl/widget/theme-3/757050742379905056.png)](https://dsc.gg/some.server)
+[![Avatar](https://discord.c99.nl/widget/theme-3/877606171199017030.png)](https://dsc.gg/some.server)
 
 
 - 🔭 Projects I'm currently working on:
 [Something](https://dsc.gg/somebot)
 #### What is Something? He is a voice channel utility bot used across Discord!
-<a href="https://dsc.gg/some.server">
-  <img src="https://discordapp.com/api/guilds/956183589597360148/widget.png?style=shield" alt="shield.png">
+  <img src="https://discordapp.com/api/guilds/956183589597360148/widget.png?style=shield">
 </a>
